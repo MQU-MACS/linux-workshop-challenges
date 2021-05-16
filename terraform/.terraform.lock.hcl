@@ -1,0 +1,39 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/hashicorp/aws" {
+  version     = "3.39.0"
+  constraints = "~> 3.0"
+  hashes = [
+    "h1:fjlp3Pd3QsTLghNm7TUh/KnEMM2D3tLb7jsDLs8oWUE=",
+    "zh:2014b397dd93fa55f2f2d1338c19e5b2b77b025a76a6b1fceea0b8696e984b9c",
+    "zh:23d59c68ab50148a0f5c911a801734e9934a1fccd41118a8efb5194135cbd360",
+    "zh:412eab41d4934ca9c47083faa128e4cd585c3bb44ad718e40d67091aebc02f4e",
+    "zh:4b75e0a259b56d97e66b7d69f3f25bd4cc7be2440c0fe35529f46de7d40a49d3",
+    "zh:694a32519dcca5bd8605d06481d16883d55160d97c1f4039deb13c6ca8de8427",
+    "zh:6a0bcef43c2d9a97aeaaac3c5d1d6728dc2464a51a014f118c691c79029d0903",
+    "zh:6d78fc7c663247ca2a80f276008dcdafece4cac75e2639bbce188c08b796040a",
+    "zh:78f846a505d7b64b67feed1527d4d2b40130dadaf8e3112113685e148f49b156",
+    "zh:881bc969432d3ef6ec70f5a762c3415e037904338579b0a360c6818b74d26e59",
+    "zh:96c1ca80c1d693a3eef80489adb45c076ee8e6878e461d6c29b05388d4b95f48",
+    "zh:9be5fa342272586fc6e319e20f21c0c5c801b05dcf7d59e473ad0882c9ecfa70",
+  ]
+}
+
+provider "registry.terraform.io/kreuzwerker/docker" {
+  version = "2.11.0"
+  hashes = [
+    "h1:Qzz/xfsrolaSd7Qnxk330hjmCiHqy/n0C2T3k58EDDg=",
+    "zh:1b9d93385cc0329467725ce90affc76a361bc23384a7358431e6ee281ae323de",
+    "zh:21a327746cdad2abfc22df3d72eb9b36134bb7daeb72b2a52112adfd3a39555a",
+    "zh:31ed477f429686015271188b03e89bfc400b74eea9e83956ea4cc16018b561f3",
+    "zh:4302d65b5cbedbe42cf35094748058aea44f75dd7ec2b257330b5f60a2521def",
+    "zh:43f53e3e29070dfec0621915d0a5266c386f7416f6a719531b7c55924cefd280",
+    "zh:4bf7704bf46868edd834991f350aa6204c72397be1e1a784278391bb911e29f5",
+    "zh:503434ddf9c801aa9a9e47e76b6b5758dd4583a49f7ac373066430b37b3efcaf",
+    "zh:67410f9ed6503692121519b81e13cf5274ceadb5566bf2ec2dc0a6e43c700621",
+    "zh:c0fd724ed8da52375976c3595a2a6748bf28c07ec881ad7154e657ab5c38f25b",
+    "zh:cbe762d96c4ae61c42d8c02c047954b52a6567b214a0263345135baf249accd7",
+    "zh:d3a23b086199d4a2a63707f28c0da8b392d8d11281c6881d85a959e76626fb7e",
+  ]
+}

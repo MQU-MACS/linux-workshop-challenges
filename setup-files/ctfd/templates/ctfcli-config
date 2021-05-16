@@ -1,0 +1,5 @@
+[config]
+url = {{ url }} 
+access_token =  {{ api_key }}
+
+[challenges]
